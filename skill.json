@@ -1,0 +1,15 @@
+{
+  "name": "genpark-hyperbolic-poincare-embeddings-skill",
+  "version": "1.0.0",
+  "description": "Poincar\u00e9 disk model hyperbolic geometry engine computing hyperbolic distance metrics and low-distortion hierarchical tree representations.",
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "hyperbolic-geometry",
+    "poincare-disk",
+    "graph-embeddings",
+    "geometric-deep-learning"
+  ],
+  "entrypoint": "client.py",
+  "dependencies": []
+}
